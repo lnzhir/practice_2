@@ -1,0 +1,294 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Страница-1" id="5MZJ78Xw2zQRsjB8t1sQ">
+    <mxGraphModel dx="854" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
+          <mxGeometry height="560" width="720" x="80" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="150" width="320" x="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Сегодня - 30.06.2026" vertex="1">
+          <mxGeometry height="30" width="200" x="160" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Вчера - 29.06.2026" vertex="1">
+          <mxGeometry height="30" width="200" x="160" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Воскресенье - 29.06.2026" vertex="1">
+          <mxGeometry height="30" width="200" x="160" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;" value="Покупка в пятерочке" vertex="1">
+          <mxGeometry height="20" width="200" x="170" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="90" x="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Продукты" vertex="1">
+          <mxGeometry height="20" width="60" x="175" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#D3D3D3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="70" as="sourcePoint" />
+            <mxPoint x="480" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="60" width="320" x="160" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="60" width="320" x="160" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="90" x="260" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Все время" vertex="1">
+          <mxGeometry height="20" width="65" x="272.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=none;" value="X" vertex="1">
+          <mxGeometry height="20" width="20" x="450" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="Категория: Продукты" vertex="1">
+          <mxGeometry height="20" width="200" x="170" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="Категория: Продукты" vertex="1">
+          <mxGeometry height="20" width="200" x="170" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vkMcdNGhR3MIdgPz43rV-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=none;" value="+" vertex="1">
+          <mxGeometry height="20" width="20" x="430" y="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4THwTHkgGXHhCWMM62wz" name="Страница-2">
+    <mxGraphModel dx="664" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
+          <mxGeometry height="680" width="1000" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Сегодня - 30.06.2026" vertex="1">
+          <mxGeometry height="30" width="160" x="360" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Вчера - 29.06.2026" vertex="1">
+          <mxGeometry height="30" width="200" x="360" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Воскресенье - 29.06.2026" vertex="1">
+          <mxGeometry height="30" width="200" x="360" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BBBBBB;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="60" width="320" x="360" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#BBBBBB;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="40" as="sourcePoint" />
+            <mxPoint x="320" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-21" connectable="0" parent="1" style="group;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="20" width="90" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-12" parent="EFD2L37FuBMYWDu1Et_v-21" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="20" width="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-13" parent="EFD2L37FuBMYWDu1Et_v-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Все время" vertex="1">
+          <mxGeometry height="20" width="67.5" x="11.25" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-22" connectable="0" parent="1" style="group;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="20" width="90" x="460" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-7" parent="EFD2L37FuBMYWDu1Et_v-22" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="20" width="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-8" parent="EFD2L37FuBMYWDu1Et_v-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Продукты" vertex="1">
+          <mxGeometry height="20" width="60" x="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-20" parent="EFD2L37FuBMYWDu1Et_v-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Х" vertex="1">
+          <mxGeometry height="20" width="20" x="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;rounded=0;shadow=0;fontStyle=1;fontSize=14;fontColor=#555555;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Категории" vertex="1">
+          <mxGeometry height="20" width="80" x="90" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;rounded=0;shadow=0;fontStyle=0;fontSize=12;fontColor=#000000;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Статьи" vertex="1">
+          <mxGeometry height="20" width="50" x="170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="30" width="220" x="90" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="X" vertex="1">
+          <mxGeometry height="20" width="20" x="280" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="/" vertex="1">
+          <mxGeometry height="20" width="20" x="260" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Продукты" vertex="1">
+          <mxGeometry height="30" width="120" x="110" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-27" connectable="0" parent="1" style="group;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="90" width="320" x="360" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-2" parent="2tItegePND-rxKBLyEff-27" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BBBBBB;arcSize=6;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="90" width="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-6" parent="2tItegePND-rxKBLyEff-27" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="1600 руб." vertex="1">
+          <mxGeometry height="20" width="110" x="150" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-14" parent="2tItegePND-rxKBLyEff-27" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="X" vertex="1">
+          <mxGeometry height="20" width="20" x="290" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-15" parent="2tItegePND-rxKBLyEff-27" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Категория: Продукты" vertex="1">
+          <mxGeometry height="20" width="140" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFD2L37FuBMYWDu1Et_v-16" parent="2tItegePND-rxKBLyEff-27" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="купил что нужно: хлеб, картофель, масло" vertex="1">
+          <mxGeometry height="20" width="300" x="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-16" parent="2tItegePND-rxKBLyEff-27" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=12;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Покупка в пятерочке" vertex="1">
+          <mxGeometry height="20" width="140" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-17" parent="2tItegePND-rxKBLyEff-27" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="/" vertex="1">
+          <mxGeometry height="20" width="20" x="270" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-36" connectable="0" parent="1" style="group;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="90" width="320" x="360" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-37" parent="2tItegePND-rxKBLyEff-36" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BBBBBB;arcSize=6;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="90" width="320" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-38" parent="2tItegePND-rxKBLyEff-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="1600 руб." vertex="1">
+          <mxGeometry height="20" width="110" x="150" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-39" parent="2tItegePND-rxKBLyEff-36" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="X" vertex="1">
+          <mxGeometry height="20" width="20" x="290" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-40" parent="2tItegePND-rxKBLyEff-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Категория: Продукты" vertex="1">
+          <mxGeometry height="20" width="140" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-41" parent="2tItegePND-rxKBLyEff-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="купил что нужно: хлеб, картофель, масло" vertex="1">
+          <mxGeometry height="20" width="300" x="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-42" parent="2tItegePND-rxKBLyEff-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=12;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Покупка в пятерочке" vertex="1">
+          <mxGeometry height="20" width="140" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-43" parent="2tItegePND-rxKBLyEff-36" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="/" vertex="1">
+          <mxGeometry height="20" width="20" x="270" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="+" vertex="1">
+          <mxGeometry height="20" width="20" x="90" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Добавить&amp;nbsp; категорию" vertex="1">
+          <mxGeometry height="20" width="190" x="120" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="V" vertex="1">
+          <mxGeometry height="20" width="20" x="90" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
+          <mxGeometry height="340" width="320" x="80" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="1600 руб." vertex="1">
+          <mxGeometry height="30" width="130" x="520" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-53" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF00;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="660" y="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-57" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="660" y="492.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="1600 руб." vertex="1">
+          <mxGeometry height="30" width="130" x="520" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;fontStyle=1;fontSize=18;fontColor=#555555;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Добавить транзакцию" vertex="1">
+          <mxGeometry height="20" width="280" x="100" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
+          <mxGeometry height="270" width="320" x="440" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;fontStyle=1;fontSize=18;fontColor=#555555;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Добавить статью" vertex="1">
+          <mxGeometry height="20" width="280" x="460" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
+          <mxGeometry height="260" width="320" x="800" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;fontStyle=1;fontSize=18;fontColor=#555555;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Добавить категорию" vertex="1">
+          <mxGeometry height="20" width="280" x="820" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="40" width="280" x="820" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Продукты" vertex="1">
+          <mxGeometry height="20" width="190" x="830" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-74" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="280" x="100" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-61" parent="2tItegePND-rxKBLyEff-74" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="40" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-62" parent="2tItegePND-rxKBLyEff-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Покупка в пяторочке" vertex="1">
+          <mxGeometry height="20" width="190" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-63" parent="2tItegePND-rxKBLyEff-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="v" vertex="1">
+          <mxGeometry height="20" width="20" x="260" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Статья" vertex="1">
+          <mxGeometry height="20" width="140" x="110" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="40" width="280" x="100" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Цена" vertex="1">
+          <mxGeometry height="20" width="140" x="110" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Дата" vertex="1">
+          <mxGeometry height="20" width="140" x="110" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="40" width="280" x="100" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="ОК" vertex="1">
+          <mxGeometry height="30" width="90" x="290" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Отмена" vertex="1">
+          <mxGeometry height="30" width="90" x="190" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-83" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="280" x="460" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-84" parent="2tItegePND-rxKBLyEff-83" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="40" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-85" parent="2tItegePND-rxKBLyEff-83" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Продукты" vertex="1">
+          <mxGeometry height="20" width="190" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-86" parent="2tItegePND-rxKBLyEff-83" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="v" vertex="1">
+          <mxGeometry height="20" width="20" x="260" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Категория" vertex="1">
+          <mxGeometry height="20" width="140" x="470" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="" vertex="1">
+          <mxGeometry height="40" width="280" x="460" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Заголовок" vertex="1">
+          <mxGeometry height="20" width="140" x="470" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="ОК" vertex="1">
+          <mxGeometry height="30" width="90" x="650" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Отмена" vertex="1">
+          <mxGeometry height="30" width="90" x="550" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Название" vertex="1">
+          <mxGeometry height="20" width="140" x="830" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="ОК" vertex="1">
+          <mxGeometry height="30" width="90" x="1010" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="2tItegePND-rxKBLyEff-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;" value="Отмена" vertex="1">
+          <mxGeometry height="30" width="90" x="910" y="1010" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

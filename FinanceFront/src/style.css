@@ -1,0 +1,217 @@
+:root {
+	--text: #6b6375;
+	--text-h: #08060d;
+	--bg: #fff;
+	--border: #bbbbbb;
+	--code-bg: #f4f3ec;
+	--accent: #aa3bff;
+	--accent-bg: rgba(170, 59, 255, 0.1);
+	--accent-border: rgba(170, 59, 255, 0.5);
+	--social-bg: rgba(244, 243, 236, 0.5);
+	--shadow:
+		rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
+	--btn-bg-hover: #dddddd;
+	--btn-bg-active: #eeeeee;
+	--btn-bg: #f5f5f5;
+	--btn-border: #666666;
+	--bold-header: #555555;
+
+	/* --sans: system-ui, 'Segoe UI', Roboto, sans-serif; */
+	/* --heading: system-ui, 'Segoe UI', Roboto, sans-serif; */
+	/* --mono: ui-monospace, Consolas, monospace; */
+	--sans: GoogleSans;
+
+	font: 18px/145% var(--sans);
+	letter-spacing: 0.18px;
+	color-scheme: light dark;
+	/* color: var(--text); */
+	background: var(--bg);
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+	@media (max-width: 1024px) {
+		font-size: 16px;
+	}
+
+	/* html {
+		font-family: GoogleSans;
+		font-size: calc(16px * var(--font-scale));
+		user-select: none;
+	} */
+}
+
+body {
+	margin: 0;
+}
+
+
+button {
+	font: 18px/145% var(--sans);
+}
+
+h2, h3, h4, h5
+h1 {
+	font-weight: 700;
+	color: #555555;
+}
+
+
+p {
+	margin: 0;
+}
+
+#app {
+	/* width: 1126px; */
+	max-width: 100%;
+	margin: 0 auto;
+	/* text-align: center; */
+	/* border-inline: 1px solid var(--border); */
+	min-height: 100svh;
+	display: flex;
+	flex-direction: row;
+	box-sizing: border-box;
+}
+
+
+
+@font-face {
+	font-family: "GoogleSans";
+	src: url("./assets/fonts/GoogleSans-Regular.ttf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "GoogleSans";
+	src: url("./assets/fonts/GoogleSans-Regular.ttf");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "GoogleSans";
+	src: url("./assets/fonts/GoogleSans-Medium.ttf");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "GoogleSans";
+	src: url("./assets/fonts/GoogleSans-SemiBold.ttf");
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "GoogleSans";
+	src: url("./assets/fonts/GoogleSans-Bold.ttf");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "GoogleSans";
+	src: url("./assets/fonts/GoogleSans-ExtraBold.ttf");
+	font-weight: 800;
+	font-style: normal;
+}
+
+.h2, .h3 {
+	font-weight: 700;
+	color: var(--bold-header);
+}
+
+.h2 {
+	font-size: 24px;
+}
+
+.h3 {
+	font-size: 20px;
+}
+
+.h4 {
+	font-size: 18px;
+}
+
+.h5 {
+	font-size: 16px;
+}
+
+.h6 {
+	font-size: 14px;
+}
+
+
+.btn_empty, .btn_icon_empty {
+	background-color: rgba(0, 0, 0, 0);
+	border: 0px;
+	cursor: pointer;
+}
+
+
+.btn_icon_empty {
+	line-height: 0;
+	border-radius: 100%;
+	aspect-ratio: 1/1;
+}
+
+.btn {
+	background-color: var(--btn-bg);
+	border: 1px solid var(--btn-border);
+	border-radius: 8px;
+	cursor: pointer;
+
+	padding: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.btn:hover {
+	background-color: var(--btn-bg-hover);
+}
+
+.btn:active {
+	background-color: var(--btn-bg-active);
+}
+
+.btn_icon_empty:hover {
+	background-color: var(--btn-bg-hover);
+}
+
+.btn_icon_empty:active {
+	background-color: var(--btn-bg-active);
+}
+
+
+
+.btn_empty:hover {
+	background-color: var(--btn-bg-hover);
+}
+
+.btn_empty:active {
+	background-color: var(--btn-bg-active);
+}
+
+.rounded {
+	border-radius: 8px;
+}
+
+.ref {
+	cursor: pointer;
+}
+
+.ref:hover {
+	text-decoration: underline;
+}
+
+.input_field {
+	background-color: var(--btn-bg);
+	border: 1px solid var(--btn-border);
+	border-radius: 8px;
+
+	font-size: 18px;
+
+	padding: 5px;
+}
