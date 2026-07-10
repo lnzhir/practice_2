@@ -102,17 +102,39 @@ ON Books(name, authorId, publisherId, publishYear);
 Проект - DB
 
 ## HTTP
+Скриншоты запросов из Postman:
 ![](/http1.png)
+
+<hr>
+
 ![](/http2.png)
+
+<hr>
+
 ![](/http3.png)
 
 ## Финальное задание (Приложение для учета личных финансов и бюджетирования) 
 Проекты: FinanceDB, FinanceFront, FinanceWebApi
 
-Скриншоты запросов из Postman
+Скриншоты запросов из Postman:
 ![](/webapi1.png)
+
+<hr>
+
 ![](/webapi2.png)
+
+<hr>
+
 ![](/webapi3.png)
+
+<hr>
+
 ![](/webapi4.png)
+
+<hr>
+
 ![](/webapi5.png)
+
+<hr>
+
 ![](/webapi6.png)
