@@ -239,7 +239,7 @@ onMounted(() => {
 
 			<div v-for="transactionDate in store.state.transactions">
 				<DateLabel 
-					:key="transactionDate.date" 
+					:key="{date: transactionDate.date, price: transactionDate.price}" 
 					:date="transactionDate.date" 
 					:price="transactionDate.price"/>
 
