@@ -16,9 +16,6 @@
 	Console.WriteLine(db.GetReader(new Guid("01069544-b668-445a-9af7-5c3d44009620")));
 }
 
-
-
-
 using (var db = new DBProviderEF())
 {
 	Reader? reader = db.Readers.FirstOrDefault();
@@ -29,12 +26,9 @@ using (var db = new DBProviderEF())
 		reader.RegistrationDate = new DateTime(14, 2, 1);
 		db.UpdateReader(reader);
 	}
-	
 
 	foreach (var readers  in db.Readers)
 	{
 		Console.WriteLine(readers);
 	}
-
-	
 }
