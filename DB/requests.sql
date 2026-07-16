@@ -1,26 +1,46 @@
-SELECT Readers.name, Books.name, returned FROM LendingBooks, Readers, Books
+
+
+SELECT 
+	Readers.name, 
+	Books.name, 
+	returned 
+FROM 
+	LendingBooks, 
+	Readers, 
+	Books
 WHERE 
 LendingBooks.readerId = Readers.id and
 LendingBooks.bookId = Books.id and
 returned = 0
 
-SELECT name, count FROM Books
+SELECT 
+	name, 
+	count 
+FROM Books
 ORDER BY count DESC
 
-SELECT COUNT(*) returned FROM LendingBooks
+SELECT COUNT(*) returned 
+FROM LendingBooks
 WHERE returned = 0
 
 SELECT id
 FROM Books
-INTERSECT SELECT bookId
+INTERSECT 
+SELECT bookId
 FROM LendingBooks
 
-SELECT LendingBooks.bookId, name
-FROM LendingBooks LEFT JOIN Readers 
+SELECT 
+	LendingBooks.bookId, 
+	name
+FROM LendingBooks 
+LEFT JOIN Readers 
 ON LendingBooks.readerId = Readers.Id
 
-SELECT LendingBooks.bookId, name
-FROM LendingBooks RIGHT JOIN Readers 
+SELECT 
+	LendingBooks.bookId, 
+	name
+FROM LendingBooks 
+RIGHT JOIN Readers 
 ON LendingBooks.readerId = Readers.Id
 
 UPDATE Books
